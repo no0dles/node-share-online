@@ -1,6 +1,6 @@
 {
   "name": "share-online",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Share-online.biz download API",
   "main": "index.js",
   "directories": {
